@@ -1,4 +1,4 @@
-# Anticipation-des-besoins-en-consommation-des-b-timents
+# Anticipation-des-besoins-en-consommation-des-bâtiments
 
 L’objectif de ce projet est de prédire la consommation énergétique et les émissions de CO2 des bâtiments commerciaux qui n'avaient pas encore fait l'objet de relevés, en se basant sur des données structurelles. Ce travail s'inscrit dans un objectif plus large visant à devenir neutre en émissions de carbone d'ici 2050.
 
